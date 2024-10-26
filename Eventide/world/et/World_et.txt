@@ -54,11 +54,13 @@ ET_HouseParkour : ET_Circle, ET_Port1, ET_BEACHED : SWARMROOM
 ET_Supersillyinator : ET_Circle, ET_Filterowo
 ET_Circle : ET_HouseParkour, ET_Supersillyinator
 ET_BEACHED : ET_Train01, ET_HouseParkour
-ET_holyshit_aliens : DISCONNECTED, DISCONNECTED
+ET_holyshit_aliens : ET_GRR, ET_iwannaplaynautica
 ET_WOKEHRTGODDESS : ET_Train08, ET_Gaypeoplereal
 ET_Gaypeoplereal : ET_WOKEHRTGODDESS, ET_imtired
 ET_imtired : ET_Lightburntheregion, ET_Gaypeoplereal
-ET_Lightburntheregion : ET_imtired, DISCONNECTED
+ET_Lightburntheregion : ET_imtired, ET_GRR
+ET_GRR : ET_Lightburntheregion, ET_holyshit_aliens
+ET_iwannaplaynautica : ET_holyshit_aliens, DISCONNECTED
 END ROOMS
 CREATURES
 
