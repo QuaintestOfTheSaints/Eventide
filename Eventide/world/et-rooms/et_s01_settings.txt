@@ -1,0 +1,13 @@
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04946124
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 10006
+EffectColorA: 11
+EffectColorB: 2
+Effects: Bloom-0.6086956-70-70, Fog-0-80-80, 
+PlacedObjects: CGShelterRain><286.7498><380.05><, 
+AmbientSounds: OMNI><am_ind-utility02.ogg><739.1722><341.3158><0.3043478><1, SPOT><am_ind-electrichum03.ogg><748.1447><561.83><0.1847826><1><500.1447><345.83><-42.35535><-39.35535><0><0.1, OMNI><am_win-nicewnd.ogg><776.1754><398.4039><0.4130435><1, OMNI><so_wat-lightflow.ogg><429.197><236.1929><0.25><1, 
+FadePalette: 2, 0.3043478
+BackgroundOffset: 0,543.4781

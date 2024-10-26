@@ -1,0 +1,8 @@
+RainIntensity: 0.7065217
+RumbleIntensity: 0.5
+Grime: 0.3043478
+Effects: Fog-0-70-70, Bloom-0.6086956-80-80, TinyDragonFly-0.02173913-20-20, FullRoomWind-0.3586957-187-115, 
+PlacedObjects: CustomDecal><64.94235><27.55504><-136~254~1092~203~1070~70~0~0~0~1~0~rust3~0.3152172~1~0.3152172~1~0.3152172~1~0.3152172~1, CustomDecal><188.6422><475.1093><-70~136~940~116~969~3~0~0~0~1~0~rust3~0.3152174~1~0.3152174~1~0.3152174~1~0.3152174~1, DandelionPatch><592.424><213.185><-45~29, DandelionPatch><466.392><233.1091><-37~67, DandelionPatch><239.0523><217.9703><-45~31, DandelionPatch><376.1593><241.8218><0~100, KarmaFlower><758.3005><604.7377><0~0~5~7, EEGhostSpot><186.6131><478.915><, 
+AmbientSounds: OMNI><am_win-howlingwnd.ogg><167.3035><274.713><0.3586957><1, 
+FadePalette: 2, 0.4021739
+BackgroundOffset: 0,491.3062

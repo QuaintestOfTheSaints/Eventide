@@ -1,0 +1,7 @@
+Palette: 10006
+Effects: SkyAndLightBloom-0.01086957-70-70, LightRain-0.1521739-80-80, MossWater-1-90-90, 
+PlacedObjects: Vine><630.3057><394.6921><-166~507, Rainbow><836.3004><412.7628><-250~155~0~0~1,1,1,1,0.5,0.747826, DangleFruit><527.072><800.3135><0~0~2~3, DangleFruit><1169.091><818.8707><0~0~2~3, CustomDecal><1270.191><1017.19><-35~194~778~184~792~-2~-339~56~0~1~0~rustb3~0.25~1~0.25~1~0.25~1~0.25~1, CustomDecal><-191.9467><979.0573><-39~247~339~238~275~4~535~32~0~1~0~rust3~0.2065217~1~0.2065217~1~0.2065217~1~0.2065217~1, 
+AmbientSounds: OMNI><am_env-forest.ogg><759.5585><443.3087><0.6086956><1, OMNI><am_nat-forestrain.ogg><754.4448><359.7951><0.5><1, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>et - itertheme<eA>vol<eB>0.2782606<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>940.189<tB>275.0656<tA>fireChance<tB>1<tA>entrance<tB>3<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>883.189<tB>429.0656<tA>handlePos<tB>-106.3553<tB>-92.35535, 
+FadePalette: 2, 0.3043478, 0.3043478, 0.3043478
+BackgroundOffset: 0,775

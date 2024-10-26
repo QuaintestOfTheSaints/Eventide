@@ -1,0 +1,5 @@
+DangerType: None
+Clouds: 0
+Grime: 0.3043478
+Effects: Bloom-0-70-70, Fog-0-80-80, 
+FadePalette: 0, 1

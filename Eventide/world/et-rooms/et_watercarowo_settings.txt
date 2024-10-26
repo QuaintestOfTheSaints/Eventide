@@ -1,0 +1,7 @@
+DangerType: Flood
+Clouds: 0.8152174
+Effects: SkyDandelions-0-70-70, MossWater-1-30-30, 
+PlacedObjects: CustomDecal><259.3802><188.5981><-23~284~540~270~501~39~-249~-533~0~1~0~rustb3~0.3695652~1~0.3695652~1~0.3695652~1~0.3695652~1, 
+AmbientSounds: OMNI><am_win-subwnd.ogg><495.3013><158.7274><0.2391304><1, SPOT><am_ind-50hz.ogg><713.1995><442.7641><0.3913043><1><478.1995><478.764><-88.35535><-73.35535><0><0.1, OMNI><so_wat-openflow.ogg><353.0809><252.4329><0.2608696><1, 
+FadePalette: 33, 0.8695652
+MorePalette0: 2, 0.1304348

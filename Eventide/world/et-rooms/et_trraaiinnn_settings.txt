@@ -1,0 +1,12 @@
+DangerType: Flood
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04556853
+SecondWaveLength: 0.5144925
+SecondWaveAmplitude: 0.3478261
+Clouds: 0.7826087
+Effects: SkyDandelions-0-981-407, Bloom-0-30-30, Fog-0.326087-60-60, MossWater-1-20-20, LightBurn-0.25-70-70, 
+PlacedObjects: CustomDecal><376.2126><-20.30353><-168~676~242~676~513~56~0~0~0~1~0~rustb1~0.2717391~1~0.2717391~1~0.2717391~1~0.2717391~1, 
+AmbientSounds: OMNI><am_win-subwnd.ogg><450.7676><140.8008><0.2717391><1, OMNI><so_ind-deep50hz.ogg><91.88007><183.8481><0.1304348><1, 
+FadePalette: 2, 0.3586957
+MorePalette0: 33, 0.1630435

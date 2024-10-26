@@ -1,0 +1,10 @@
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.1282607
+Palette: 10006
+EffectColorA: 11
+EffectColorB: 2
+Effects: FireFlies-0.3043478-30-30, Flies-0.07608695-40-40, SkyDandelions-0.5-265-128, FullRoomWind-0.4456522-332-36-Vertical:False, AboveCloudsView-1-60-60, Fog-0-50-50, Bloom-0.6086956-70-70, 
+PlacedObjects: DandelionPatch><149.4412><824.6913><0~100, DandelionPatch><463.8367><452.3197><0~100, DangleFruit><119.2008><316.8062><0~0~2~3, DangleFruit><430.3175><656.4181><0~0~2~3, DangleFruit><86.64761><280.1151><0~0~2~3, DangleFruit><711.3709><959.5972><37~197~2~3, 
+AmbientSounds: OMNI><am_env-wallhum.ogg><411.9094><169.3217><0.5000002><1, OMNI><am_win-medwind.ogg><759.4222><419.6843><0.3586957><1, OMNI><am_ind-utility02.ogg><704.7873><334.5535><0.3043478><1, SPOT><so_wat-lightflow.ogg><742.1431><-10.16901><0.4021739><1><817.1431><205.831><-197.3553><-170.3553><0><0.1, 
+FadePalette: 2, 0.4021739, 0.4021739
+BackgroundOffset: 108.6956,600

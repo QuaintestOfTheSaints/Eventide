@@ -1,0 +1,74 @@
+ROOMS
+
+GATE_SI_ET : DISCONNECTED, ET_intro : GATE
+ET_A01 : DISCONNECTED, DISCONNECTED
+ET_B01 : ET_intro, DISCONNECTED, DISCONNECTED
+ET_B02 : DISCONNECTED, DISCONNECTED, DISCONNECTED
+ET_DSM : DISCONNECTED, DISCONNECTED
+ET_intro : GATE_SI_ET, DISCONNECTED, ET_S01, ET_B01, DISCONNECTED
+ET_LCM : DISCONNECTED
+ET_S01 : ET_intro : SHELTER
+ET_S02 : ET_Train02, ET_Train01
+ET_S03 : ET_Train04, ET_Train03 : ANCIENTSHELTER
+ET_SwampM : DISCONNECTED
+ET_Train01 : ET_S02, ET_IntroShelter, ET_BEACHED, ET_TRRAAIINNN
+ET_IntroShelter : ET_Train01 : SHELTER
+ET_TRRAAIINNN : ET_Train01, ET_underover
+ET_Train02 : ET_S02, ET_Train03
+ET_Train03 : ET_S03, ET_Train02, DISCONNECTED
+ET_Train04 : ET_Train05, ET_S03 : SWARMROOM
+ET_Train05 : ET_Train06, ET_Train04, ET_Train07
+ET_Train06 : DISCONNECTED, ET_Train05
+ET_Train07 : ET_Train05, ET_Trains09, ET_Train08
+ET_Trains09 : ET_Trains10, ET_Trains01, ET_Train07 : SCAVOUTPOST
+ET_Trains10 : ET_Trains09, ET_Trains11
+ET_Train08 : ET_Train07, ET_Trains11, ET_WOKEHRTGODDESS
+ET_Trains01 : ET_Trains02, ET_Trains09, ET_Trains06
+ET_Trains02 : ET_Trains03, ET_Trains01
+ET_Trains03 : ET_Trains02, ET_Trains04, ET_Trains06
+ET_Trains04 : ET_Trains03, ET_Trains05 : SHELTER
+ET_Trains06 : ET_Trains03, ET_Trains01, ET_ScavRoomA, ET_ScavRoomB, DISCONNECTED
+ET_ScavRoomA : ET_Trains06, ET_ScavRoomB : SCAVTRADER
+ET_ScavRoomB : ET_Trains06, ET_ScavRoomA, ET_Trains07 : SCAVTRADER
+ET_Trains07 : ET_Trains08, ET_ScavRoomB
+ET_Trains08 : ET_Trains07, ET_Trains11
+ET_Trains05 : ET_Trains04, GATE_ET_MK
+ET_Trains11 : ET_Trains10, ET_Trains08, ET_Train08
+ET_EchoRoom : ET_Intersection
+ET_Intersection : ET_Scaffold01, ET_EchoRoom, DISCONNECTED, DISCONNECTED : SWARMROOM
+ET_Scaffold01 : ET_Intersection
+GATE_ET_MK : DISCONNECTED, ET_Trains05 : GATE
+ET_Void : DISCONNECTED
+ET_Void2 : DISCONNECTED
+ET_TileTest : DISCONNECTED
+ET_Port1 : ET_TrainWreck, ET_HouseParkour, ET_SuperBuildUp
+ET_TrainWreck : ET_Port1, ET_FinalStretch
+ET_FinalStretch : DISCONNECTED, ET_TrainWreck
+ET_underover : ET_TRRAAIINNN, DISCONNECTED, ET_Traincarowo
+ET_Traincarowo : ET_underover, ET_WaterCarOwO
+ET_WaterCarOwO : ET_Traincarowo, ET_GAHtheywateredthecaragain
+ET_GAHtheywateredthecaragain : ET_WaterCarOwO, ET_Filterowo
+ET_Filterowo : ET_GAHtheywateredthecaragain, ET_Supersillyinator, ET_SuperBuildUp, DISCONNECTED
+ET_SuperBuildUp : ET_Port1, ET_Filterowo
+ET_HouseParkour : ET_Circle, ET_Port1, ET_BEACHED : SWARMROOM
+ET_Supersillyinator : ET_Circle, ET_Filterowo
+ET_Circle : ET_HouseParkour, ET_Supersillyinator
+ET_BEACHED : ET_Train01, ET_HouseParkour
+ET_holyshit_aliens : DISCONNECTED, DISCONNECTED
+ET_WOKEHRTGODDESS : ET_Train08, ET_Gaypeoplereal
+ET_Gaypeoplereal : ET_WOKEHRTGODDESS, ET_imtired
+ET_imtired : ET_Lightburntheregion, ET_Gaypeoplereal
+ET_Lightburntheregion : ET_imtired, DISCONNECTED
+END ROOMS
+CREATURES
+
+OFFSCREEN : 0-Scavenger-19
+ET_Trains07 : 5-YellowLizard-2, 3-YellowLizard-2, 2-YellowLizard
+ET_Train05 : 4-Eel, 3-Eel
+ET_Trains02 : 2-BigNeedleWorm, 3-SmallNeedleWorm-3
+ET_Trains01 : 3-PinkLizard
+ET_Train04 : 3-GreenLizard, 2-BigNeedleWorm, 2-SmallNeedleWorm-4
+ET_Train03 : 4-Eel
+ET_Train07 : 5-BlueLizard
+ET_Port1 : 3-BlueLizard
+END CREATURES

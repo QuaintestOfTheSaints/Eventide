@@ -1,0 +1,10 @@
+WaveSpeed: 0.6195652
+WaveAmplitude: 0.173913
+SecondWaveAmplitude: 0.3478261
+Grime: 0.3043478
+Effects: Fog-0-70-70, Bloom-0.7173913-97-134, LightRain-0.3043478-20-20, MossWater-1-80-80, SkyDandelions-0.2391304-314-127, 
+PlacedObjects: BlinkingFlower><425.8132><303.4398><, BlinkingFlower><547.0013><287.2><, BlinkingFlower><1460.132><319.4005><, BlinkingFlower><1131.811><186.0596><, BlinkingFlower><979.3525><180.1351><, BlinkingFlower><848.6686><159.1424><, CustomDecal><-165.431><318.6648><-19~200~379~199~387~-5~0~0~0~1~0~rustb2~0.3043478~1~0.3043478~1~0.3043478~1~0.3043478~1, CustomDecal><1663.868><288.1499><-3~232~503~226~508~-8~0~0~0~1~0~rustb3~0.3586957~1~0.3586957~1~0.3586957~1~0.3586957~1, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><696.5054><519.45><0.5><1, OMNI><AM_NAT-ForestRain.ogg><723.349><358.1311><0.5><1, OMNI><AM_WAT-Sea02.ogg><428.1793><241.5629><0.2065217><1, OMNI><AM_ENV-CricketsWnd.ogg><104.1957><265.3075><0.5><1, OMNI><AM_ENV-Outside.ogg><42.07294><353.657><0.5><1, 
+FadePalette: 2, 0.4021739, 0.4021739
+MorePalette0: 33, 0.2065217, 0.1521739
+BackgroundOffset: 0,750

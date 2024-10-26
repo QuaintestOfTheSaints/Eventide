@@ -1,0 +1,15 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.5
+WaveSpeed: 0.5009819
+WaveLength: 0.9995091
+WaveAmplitude: 0.04812793
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 10006
+EffectColorA: 11
+EffectColorB: 2
+Effects: MossWater-1-38-69, Flies-0.07608695-297-76, SkyAndLightBloom-0.01086957-292-17, FireFlies-0.3043478-20-20, 
+PlacedObjects: DangleFruit><246.5547><279.7067><0~0~2~3, DangleFruit><173.9307><300.8358><0~0~2~3, DangleFruit><703.8848><284.3977><0~0~2~3,
+AmbientSounds: OMNI><am_ind-utility03.ogg><753.5527><326.3071><0.4021739><1, SPOT><am_ind-electrichum03.ogg><745.3057><568.1921><0.3586957><1><477.3057><245.1921><-177.3553><-108.3553><0><0.154348, OMNI><so_wat-openflow.ogg><752.6023><373.1348><0.3804348><1, 
+FadePalette: 2, 0.3043478

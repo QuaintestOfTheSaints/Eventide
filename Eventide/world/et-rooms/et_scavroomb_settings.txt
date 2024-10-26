@@ -1,0 +1,8 @@
+DangerType: Flood
+Clouds: 1
+Grime: 0.3043478
+Effects: SkyDandelions-0-70-70, Bloom-0-30-30, LightRain-0.8043478-80-80, RockFlea-0.1086956-90-90, 
+PlacedObjects: LanternOnStick><613.6741><360.4016><-11~-98, LanternOnStick><310.8298><375.0666><13~-95, TradeOutpost><589.8134><292.572><-30~136, CustomDecal><180.9019><171.3801><-32~315~543~368~612~-26~0~0~0~1~0~rust1~0.2608696~1~0.2608696~1~0.2608696~1~0.2608696~1, 
+AmbientSounds: OMNI><rainheavy1.wav><42.58606><281.3646><0.1195652><1, OMNI><am_ind-50hz.ogg><400.8133><224.3103><0.2282609><1, OMNI><am_rain-quietthunder.ogg><412.9487><143.9771><0.5><1, OMNI><am_win-subwnd.ogg><722.105><396.8298><0.2065217><1, 
+FadePalette: 2, 0.4021739
+MorePalette0: 33, 0.6847826

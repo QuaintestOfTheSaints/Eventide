@@ -1,0 +1,12 @@
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 0.04997716
+SecondWaveLength: 0.5144925
+SecondWaveAmplitude: 0.3478261
+Clouds: 1
+Grime: 0.3043478
+Effects: SunBlock-1-203-161, FairyParticles-0.2065217-323-285, SkyDandelions-0-173-55, BkgOnlyLightning-1-30-30, LightRain-0.8043478-181-68, Bloom-0-133-118, RockFlea-0.25-70-70, 
+PlacedObjects: FairyParticleSettings><114.3009><112.9809><-73.00909~188.6467~0~1~1~0~1~4~60~180~40~100~7.826087~11.73913~262.1739~273.9131~0.5~0.7~0.8586956~0.8695652~0.5~1~0.5~0.75~10~Leaf~QUAD_OUT~QUAD_OUT~63.04348~0.5~2.826087, CustomDecal><99.44962><189.7623><10~388~772~313~839~-19~-362~34~0~1~0~rust3~0.1304348~1~0.1304348~1~0.1304348~1~0.1304348~1, LanternOnStick><574.8><370.2504><-14~-102, CGShelterRain><227.802><256.4431><, BlinkingFlower><211.6802><373.8126><, BlinkingFlower><475.3548><368.9203><, 
+AmbientSounds: OMNI><am_rain-quietthunder.ogg><402.8815><280.5889><0.5><1, OMNI><am_nat-forestrain.ogg><704.6258><263.3433><0.5><1, OMNI><rainheavy1.wav><184.4445><382.7032><0.173913><1, 
+FadePalette: 2, 0.4021739
+MorePalette0: 33, 0.7391304

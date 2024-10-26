@@ -1,0 +1,13 @@
+RainIntensity: 0.7065217
+RumbleIntensity: 0.5
+WaveSpeed: 0.4902284
+WaveLength: 0.9951142
+WaveAmplitude: 0.02893956
+SecondWaveLength: 0.5144925
+SecondWaveAmplitude: 0.3478261
+Grime: 0.3043478
+Effects: Lightning-1-70-70, SkyDandelions-0-80-80, LightRain-0.8043478-30-30, FairyParticles-0.2065217-686-395, RockFlea-0.1847826-90-90, 
+PlacedObjects: ColouredLightSource><197.684><256.5367><-512.7153~69.50705~00A1FF~95^66~1~False~0.5~0~0.5~Always~0~100, ColouredLightSource><817.2322><226.0111><100~50~00A1FF~63^66~1~False~0.5~0~0.5~Always~0~100, ColouredLightSource><120.1035><544.6103><100~50~00ABFF~144^46~0.06614256~True~1~0~0.5~Always~0~100, ColouredLightSource><851.9781><542.8468><100~50~00ABFF~80^143~0.07429703~True~1~0~0.5~Always~0~100, FairyParticleSettings><127.083><100.1396><-574~74.66025~0~1~1~0~1~4~60~180~40~100~7.826087~11.73913~262.1739~273.9131~0.5~0.7~0.8586956~0.8695652~0.5~1~0.5~0.75~10~Leaf~QUAD_OUT~QUAD_OUT~63.04348~0.5~2.826087, BlinkingFlower><174.172><183.6023><, BlinkingFlower><293.0383><244.6963><, BlinkingFlower><416.1135><244.8477><, BlinkingFlower><773.019><182.3009><, BlinkingFlower><714.9757><285.4168><, LanternOnStick><732.311><237.1498><0~-110, ClimbablePoleH><331.4104><208.3783><1^0, WaterGateData><382.7161><404.7016><100~50~False~True~Brokn~Nrml, 
+AmbientSounds: OMNI><rainheavy1.wav><669.3229><519.9071><0.173913><1, OMNI><am_nat-forestrain.ogg><678.407><265.927><0.5><1, OMNI><am_rain-quietthunder.ogg><380.6991><311.7687><0.5><1, OMNI><am_rain-rollingthunder.ogg><383.8474><225.3708><0.5><1, 
+FadePalette: 2, 0.4021739
+MorePalette0: 33, 0.9021739

@@ -1,0 +1,6 @@
+Palette: 10007
+Effects: SkyDandelions-0-70-70, 
+PlacedObjects: LightFixture><590.6621><320.8204><RedSubmersible~17.32051~-10~71, InsectGroup><481.3376><296.8667><-54~138~0~0~WaterGlowworm~0.2282609, 
+AmbientSounds: SPOT><am_ind-50hz.ogg><712.8779><445.1584><0.3043478><1><574.8779><284.1584><-59.35535><-59.35535><0><0.1434784, OMNI><am_win-subwnd.ogg><700.2435><177.4499><0.2173913><1, 
+FadePalette: 33, 1
+MorePalette0: 2, 0.2065217

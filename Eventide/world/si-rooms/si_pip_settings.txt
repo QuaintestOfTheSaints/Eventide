@@ -1,0 +1,6 @@
+Palette: 10006
+Effects: AboveCloudsView-1-30-30, Bloom-0.6086956-20-20, 
+PlacedObjects: KarmaFlower><428.0603><428.0593><0~0~5~7, DandelionPatch><663.5886><135.632><-15~89, CustomDecal><771.1648><206.319><-2~89~41~87~40~0~170~42.99998~0~1~0~scavmark~0.5869565~0.2065217~0.5869565~0.2065217~0.5869565~0.2065217~0.5869565~0.2065217, ColouredLightSource><-176.4433><713.4418><100~50~FF2700~507^315~1~False~0.5~0~0.5~Always~0~100, 
+AmbientSounds: OMNI><AM_WIN-WndTone.ogg><755.7481><473.3><0.4130435><1, 
+FadePalette: 2, 0.4021739
+BackgroundOffset: 0,434.7825

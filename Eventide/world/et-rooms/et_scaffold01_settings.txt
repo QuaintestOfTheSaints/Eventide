@@ -1,0 +1,14 @@
+RainIntensity: 0.1521739
+RumbleIntensity: 0.1086956
+WaveSpeed: 0.5008294
+WaveLength: 0.9153461
+WaveAmplitude: 0.004009617
+SecondWaveLength: 0.5144925
+SecondWaveAmplitude: 0.3478261
+Grime: 0.3043478
+Effects: Fog-0-70-70, Bloom-0.6086956-80-80, TinyDragonFly-0.02173913-20-20, FullRoomWind-0.2934783-322-119, 
+PlacedObjects: ClimbablePoleV><244.4932><867.2001><0^-11, ClimbablePoleV><251.6908><1768.94><0^-12, DandelionPatch><228.8356><985.3641><0~100, DandelionPatch><350.4171><1019.89><-2~68, DandelionPatch><441.5507><1004.984><-19~40, CustomDecal><38.14114><73.66777><-45~205~981~190~954~3~0~0~0~1~0~rust3~0.2500001~1~0.2500001~1~0.2500001~1~0.2500001~1, CustomDecal><45.91837><876.0677><-24~172~890~165~884~-11~0~0~0~1~0~rust1~0.2391305~1~0.2391305~1~0.2391305~1~0.2391305~1, UniqueDataPearl><272.1127><1830.896><0~0~0~0~ET_Porl~0, 
+AmbientSounds: OMNI><am_win-howlingwnd.ogg><742.9228><456.4345><0.5><1, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>et - forgotten towers<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>749.1515<tB>219.3806<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>228.1515<tB>1781.381<tA>handlePos<tB>-45.35535<tB>-102.3553, 
+FadePalette: 2, 0.4021739, 0.4021739, 0.4021739
+BackgroundOffset: 0,500

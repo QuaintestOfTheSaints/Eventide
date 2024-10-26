@@ -1,0 +1,7 @@
+DangerType: Flood
+Grime: 0.2934783
+Palette: 10006
+Effects: Fog-0-0-0, Bloom-0-294-0, SkyDandelions-0-63-42, SkyAndLightBloom-0.02173913-98-87, 
+PlacedObjects: BlinkingFlower><418.8045><340.208><, BlinkingFlower><521.8732><378.0954><, BlinkingFlower><537.0538><314.7118><, CustomDecal><375.2595><283.8002><8~119~213~130~223~4~0~0~0~1~0~angularwhiteols~0.5~0.5~0.5~0.5~0.5~0.5~0.5~0.5, 
+AmbientSounds: OMNI><am_ind-50hz.ogg><463.3718><183.6535><0.25><1, OMNI><am_env-pasture.ogg><716.5762><340.099><0.5><1, OMNI><am_nat-forestrain.ogg><387.022><36.80121><0.2065217><1, OMNI><am_ind-utility02.ogg><96.19159><139.9426><0.25><1, 
+FadePalette: 2, 0.3043478

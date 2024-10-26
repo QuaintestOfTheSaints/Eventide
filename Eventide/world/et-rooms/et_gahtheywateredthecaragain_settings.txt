@@ -1,0 +1,6 @@
+DangerType: Flood
+Effects: SkyDandelions-0-70-70, 
+PlacedObjects: LightFixture><529.1311><378.901><RedSubmersible~17.32051~-10~31, 
+AmbientSounds: OMNI><am_win-subwnd.ogg><722.6338><179.6628><0.25><1, 
+FadePalette: 33, 1
+MorePalette0: 2, 0.2065217

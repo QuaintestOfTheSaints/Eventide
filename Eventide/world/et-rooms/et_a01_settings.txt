@@ -1,0 +1,17 @@
+Template: ET_SettingsTemplate_Inside
+DangerType: Flood
+CeilingDrips: 0
+WaveSpeed: 0.5398132
+WaveLength: 0.9800934
+WaveAmplitude: 8.999999E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 106
+EffectColorA: 11
+EffectColorB: 2
+Effects: FireFlies-0.3043478-68-47, WaterGlowworm-0.3043478-368-50, MossWater-1-20-20, 
+PlacedObjects: ColouredLightSource><1442.564><394.0731><84~-36~FF0000~94^-5~0.8152174~False~1~0~0.5~Always~0~100, ColouredLightSource><1623.348><396.13><232~-197~FF0000~89^40~0.8043478~False~1~0~0.5~Always~0~100, ColouredLightSource><1724.601><520.6168><100~50~0064FF~92^-1~0.4782609~True~0.5~0~0.5~Always~0~100, ColouredLightSource><1908.44><524.4374><100~50~0064FF~74^50~0.5217391~True~0.5~0~0.5~Always~0~100, LightSource><321.8591><273.8324><1~Environment~0~100~50~86.60254~1~0~None~0~0, LightSource><938.5587><265.8085><1~Environment~0~100~50~86.60254~1~0~None~0~0, LightSource><642.4622><110.1964><1~Environment~-187~-27~50~86.60254~1~0~None~0~0, Mushroom><349.5939><441.1249><0~0~2~3, Mushroom><789.3501><445.5769><0~0~2~3, Mushroom><827.4249><453.9031><0~0~2~3, LillyPuck><451.8102><142.1868><0~0~2~3, LillyPuck><770.873><138.3423><0~0~2~3, LightSource><1814.93><546.4135><1~Environment~-162~-192~50~86.60254~1~0~None~0~0, CGDrySpot><1381.454><-24.44458><100~50~291^178~True~Sync, 
+AmbientSounds: OMNI><so_wat-openflow.ogg><732.3132><370.6786><0.3478261><1, OMNI><msc-wetconduits.ogg><355.382><353.3497><0.3478261><1, SPOT><am_ind-50hz.ogg><710.0126><216.8004><0.4021739><1><1813.013><581.8004><-62.35535><-84.35535><0><0.1, 
+FadePalette: 1, 0.1086956, 0.1086956
+WetTerrain: OFF
+MorePalette0: 10, 0.1521739, 0.1521739

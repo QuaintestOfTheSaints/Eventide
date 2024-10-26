@@ -1,0 +1,8 @@
+DangerType: Flood
+Palette: 10006
+EffectColorA: 14
+EffectColorB: 2
+Effects: SkyDandelions-0-20-20, SkyAndLightBloom-0.02173913-54-124, 
+PlacedObjects: WaterNut><300.1751><304.3145><0~0~2~3, WaterNut><263.5686><299.0621><0~0~2~3, WaterNut><581.4678><302.5526><0~0~2~3, 
+AmbientSounds: SPOT><AM_IND-Utility02.ogg><508.3811><295.1608><0.4021739><1><250.3811><387.1608><-150.3553><-204.3553><0><0.1, SPOT><SO_WAT-LightFlow.ogg><763.3162><216.4211><0.5><1><468.3162><542.4211><-57.35535><-77.35535><0><0.1, 
+FadePalette: 2, 0.6086956

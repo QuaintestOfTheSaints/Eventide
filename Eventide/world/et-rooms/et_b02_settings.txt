@@ -1,0 +1,5 @@
+Clouds: 0.1086956
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.1391303
+PlacedObjects: SeedCob><24.63614><526.3535><0~0~7~10, DeadSeedCob><90.39224><550.9185><, CustomDecal><497.1997><1119.261><-20~152~82~166~89~-3~0~0~0~1~0~greenrounded(hue inv)~0.5~0.1086956~0.5~0.1086956~0.5~0.1086956~0.5~0.1086956, ColouredLightSource><-173.4146><1466.386><100~50~FF3D00~392^-383~0.7173913~True~0.7065217~0~0.5~Always~0~100, ColouredLightSource><-164.6964><739.2881><100~50~FF3D00~443^262~0.7065217~True~0.6847826~0~0.5~Always~0~100, ColouredLightSource><694.063><1372.179><100~50~FF0000~148^99~1~False~0.5~0~0.5~Always~0~100, ColouredLightSource><364.0729><245.343><100~50~0096FF~144^28~0.6739131~True~0.6739131~0~0.5~Always~0~100, ColouredLightSource><601.6288><251.097><100~50~0096FF~145^45~0.7065217~True~0.6847826~0~0.5~Always~0~100, ColouredLightSource><485.6628><245.68><100~50~0098FF~114^81~0.7065217~True~0.6956522~0~0.5~Always~0~100, ColouredLightSource><225.3152><1449.827><100~50~FF8567~376^213~1~True~0.5~0~0.5~Always~0~100, 
+FadePalette: 2, 0.25, 0.25

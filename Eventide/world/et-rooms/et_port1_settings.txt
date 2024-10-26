@@ -1,0 +1,9 @@
+Template: ET_SettingsTemplate_Inside
+WaveSpeed: 0.5638839
+WaveLength: 0.8321885
+WaveAmplitude: 0.1275704
+SecondWaveLength: 0.7753621
+SecondWaveAmplitude: 0.423913
+Clouds: 0.1086956
+Grime: 0.25
+FadePalette: 2, 0.3804348, 0.3804348, 0.4021739, 0.4021739

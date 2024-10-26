@@ -1,0 +1,113 @@
+GATE_SI_ET: 3883.237><496.8836><2446.239><498.5607><1><><48><35
+ET_A01: 5089.238><-169.1166><3145.538><1023.19><0><><100><35
+ET_B01: 3715.237><187.8834><2334.239><252.5607><2><Eventide><48><75
+ET_B02: 5035.238><-181.1166><2955.359><305.8568><2><Eventide><48><75
+ET_DSM: -511.7628><799.8835><870.9457><210.3428><1><><48><35
+ET_intro: 3871.237><385.8836><2438.239><424.5607><1><><48><35
+ET_LCM: -478.7629><907.8835><1008.946><284.3428><1><><151><37
+ET_S01: 3715.237><379.8836><2334.239><420.5607><1><><48><35
+ET_S02: 847.2372><-223.1166><460.6195><26.9877><2><Glimmering Gulf><48><35
+ET_S03: -181.7627><-238.1166><-234.5864><8.500718><0><><48><35
+ET_SwampM: -517.7628><976.8835><860.4396><226.7258><1><><48><35
+ET_Train01: 1057.237><-277.1164><540.9536><-66.0123><1><Glimmering Gulf><100><75
+ET_IntroShelter: 757.2372><385.8836><689.2396><9.560719><1><><48><35
+ET_TRRAAIINNN: 1063.237><-385.1164><592.2396><-149.4393><2><><48><35
+ET_Train02: 580.2372><-265.1164><184.2862><-17.01229><1><Glimmering Gulf><149><35
+ET_Train03: 88.23721><-325.1164><-123.3804><-114.3463><1><Glimmering Gulf><152><75
+ET_Train04: -529.7628><-271.1164><-653.5386><-15.4523><1><Glimmering Gulf><204><35
+ET_Train05: -958.963><-274.0694><-781.8904><-15.40728><1><Glimmering Gulf><48><35
+ET_Train06: -1075.762><-229.1166><-859.7604><14.56071><2><Glimmering Gulf><48><35
+ET_Train07: -1572.153><-335.1175><-1450.691><-96.10622><1><Glimmering Gulf><308><75
+ET_Trains09: -2356.763><-391.1164><-1869.761><-93.43922><1><><204><35
+ET_Trains10: -2353.763><-502.1165><-1711.761><-167.4393><2><><48><35
+ET_Train08: -1993.763><-556.1165><-1471.761><-203.4393><2><Glimmering Gulf><48><35
+ET_Trains01: -2836.763><-391.1164><-2085.761><-93.43922><1><Glimmering Gulf><100><35
+ET_Trains02: -3238.763><-391.1164><-2405.761><-93.43922><1><><152><35
+ET_Trains03: -3580.763><-382.1164><-2523.761><-93.43922><1><><48><35
+ET_Trains04: -3646.763><-385.1164><-2639.761><-71.43932><2><NONE><48><35
+ET_Trains06: -3232.763><-520.1165><-2399.761><-179.4393><1><><150><35
+ET_ScavRoomA: -3340.763><-511.1165><-2373.761><-255.4393><2><><48><35
+ET_ScavRoomB: -3121.763><-511.1165><-2213.761><-259.4393><2><><48><35
+ET_Trains07: -2863.763><-637.1165><-2103.761><-257.4393><2><><100><35
+ET_Trains08: -2626.763><-598.1165><-1893.761><-231.4393><2><><48><35
+ET_Trains05: -3856.763><-385.1164><-2867.761><-89.43922><1><><100><35
+ET_Trains11: -2311.763><-619.1165><-1785.761><-245.4393><2><><150><35
+ET_EchoRoom: 3235.237><622.8835><2014.239><582.5608><1><><48><35
+ET_Intersection: 3400.237><622.8835><2124.239><582.5608><1><><48><35
+ET_Scaffold01: 3403.237><877.8835><2126.239><676.5608><1><><48><112
+GATE_ET_MK: -4090.763><-388.1164><-2971.761><-89.43922><2><><48><35
+ET_Void: -397.7628><952.8835><3168.459><1012.885><1><><204><121
+ET_Void2: -349.7628><922.8835><353.4572><387.8848><1><><204><121
+ET_TileTest: -370.7628><889.8835><-587.0306><265.2637><1><><48><35
+ET_Port1: 1840.237><-463.1164><1017.24><-115.4393><1><><152><75
+ET_TrainWreck: 2209.237><-412.1164><1368.239><-230.4393><1><><48><35
+ET_FinalStretch: 2908.237><-421.1164><1486.239><-240.4392><1><><350><35
+ET_underover: 647.2372><235.8834><572.2396><-349.4393><1><><48><75
+ET_Traincarowo: 757.2372><235.8834><686.2396><-355.4393><1><><48><35
+ET_WaterCarOwO: 867.2372><235.8834><789.2396><-365.4393><1><><48><35
+ET_GAHtheywateredthecaragain: 372.0996><280.5303><877.1368><-414.1544><1><><48><35
+ET_Filterowo: 490.875><280.6528><914.3207><-539.0115><1><><100><35
+ET_SuperBuildUp: 611.6752><292.6528><1017.9><-411.0915><1><><48><115
+ET_HouseParkour: 721.6752><286.6528><973.9><74.9084><1><><200><35
+ET_Supersillyinator: 858.7908><304.1913><885.4003><-291.457><1><><48><35
+ET_Circle: 968.7908><304.1913><897.4003><-165.457><1><><48><75
+ET_BEACHED: 1431.05><-279.6976><751.2333><39.13559><1><><100><35
+ET_holyshit_aliens: -1267.132><-600.2429><-696.585><-294.3916><1><><150><74
+ET_WOKEHRTGODDESS: -323.9711><102.614><-1354.192><-200.2666><1><><100><35
+ET_Gaypeoplereal: 234.7832><253><-1145.35><-199.9333><1><><48><35
+ET_imtired: 344.7832><253><-1033.35><-199.9333><1><><48><35
+ET_Lightburntheregion: -1664.217><-543><-916.35><-218.9333><1><><104><35
+OffScreenDen_ET: 647.2372><585.8835><270.2396><160.5607><1><><0><0
+Connection: GATE_SI_ET,ET_intro,37,4,10,20,3,1
+Connection: ET_B01,ET_intro,41,63,10,4,0,3
+Connection: ET_intro,ET_S01,5,12,33,17,2,0
+Connection: ET_S02,ET_Train02,11,15,141,28,2,0
+Connection: ET_S02,ET_Train01,37,15,4,53,0,2
+Connection: ET_S03,ET_Train04,4,16,198,28,2,0
+Connection: ET_S03,ET_Train03,42,16,10,68,0,2
+Connection: ET_Train01,ET_IntroShelter,62,53,7,15,0,2
+Connection: ET_Train01,ET_BEACHED,82,45,12,26,3,3
+Connection: ET_Train01,ET_TRRAAIINNN,45,20,21,30,0,1
+Connection: ET_TRRAAIINNN,ET_underover,27,4,24,67,3,1
+Connection: ET_Train02,ET_Train03,21,20,132,60,3,3
+Connection: ET_Train04,ET_Train05,7,28,43,28,2,0
+Connection: ET_Train05,ET_Train06,12,28,40,16,2,0
+Connection: ET_Train05,ET_Train07,5,20,300,68,3,0
+Connection: ET_Train07,ET_Trains09,15,18,185,10,2,3
+Connection: ET_Train07,ET_Train08,8,10,24,24,3,1
+Connection: ET_Trains09,ET_Trains10,106,11,27,29,2,1
+Connection: ET_Trains09,ET_Trains01,5,10,84,18,3,0
+Connection: ET_Trains10,ET_Trains11,22,5,56,20,3,1
+Connection: ET_Train08,ET_Trains11,16,16,135,15,2,0
+Connection: ET_Train08,ET_WOKEHRTGODDESS,42,14,8,14,0,2
+Connection: ET_Trains01,ET_Trains02,9,18,137,18,2,0
+Connection: ET_Trains01,ET_Trains06,9,10,136,29,3,1
+Connection: ET_Trains02,ET_Trains03,6,18,42,22,2,0
+Connection: ET_Trains03,ET_Trains04,24,20,41,18,2,0
+Connection: ET_Trains03,ET_Trains06,28,14,10,28,3,1
+Connection: ET_Trains04,ET_Trains05,7,16,93,13,2,1
+Connection: ET_Trains06,ET_ScavRoomA,36,21,22,21,3,1
+Connection: ET_Trains06,ET_ScavRoomB,113,21,20,24,3,1
+Connection: ET_ScavRoomA,ET_ScavRoomB,39,13,11,17,0,2
+Connection: ET_ScavRoomB,ET_Trains07,37,16,6,13,0,2
+Connection: ET_Trains07,ET_Trains08,88,26,8,16,0,2
+Connection: ET_Trains08,ET_Trains11,36,10,7,20,0,2
+Connection: ET_Trains05,GATE_ET_MK,7,11,45,9,3,0
+Connection: ET_EchoRoom,ET_Intersection,38,10,10,9,3,3
+Connection: ET_Intersection,ET_Scaffold01,10,27,10,11,3,3
+Connection: ET_Port1,ET_TrainWreck,117,44,23,5,3,3
+Connection: ET_Port1,ET_HouseParkour,120,44,121,5,3,3
+Connection: ET_Port1,ET_SuperBuildUp,23,23,24,104,3,1
+Connection: ET_TrainWreck,ET_FinalStretch,36,4,28,7,3,3
+Connection: ET_underover,ET_Traincarowo,39,21,10,15,0,2
+Connection: ET_Traincarowo,ET_WaterCarOwO,37,15,9,16,0,2
+Connection: ET_WaterCarOwO,ET_GAHtheywateredthecaragain,37,16,18,26,0,1
+Connection: ET_GAHtheywateredthecaragain,ET_Filterowo,24,4,12,29,3,1
+Connection: ET_Filterowo,ET_Supersillyinator,28,29,23,5,1,3
+Connection: ET_Filterowo,ET_SuperBuildUp,78,31,24,10,1,3
+Connection: ET_HouseParkour,ET_Circle,87,7,24,68,3,1
+Connection: ET_HouseParkour,ET_BEACHED,27,4,75,4,3,3
+Connection: ET_Supersillyinator,ET_Circle,27,31,24,5,1,3
+Connection: ET_WOKEHRTGODDESS,ET_Gaypeoplereal,86,14,10,15,0,2
+Connection: ET_Gaypeoplereal,ET_imtired,38,15,10,15,0,2
+Connection: ET_imtired,ET_Lightburntheregion,38,17,20,17,0,2

@@ -1,0 +1,13 @@
+DangerType: Flood
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04601168
+SecondWaveLength: 0.5144925
+SecondWaveAmplitude: 0.3478261
+Clouds: 0.8043478
+Grime: 0.3043478
+Effects: Bloom-0-40-40, SkyDandelions-0-20-20, RockFlea-0.3043478-71-56, LightRain-0.8043478-51-103, 
+PlacedObjects: CustomDecal><80.0517><185.0261><-30~335~610~277~697~-128~0~0~0~1~0~rust3~0.1847826~1~0.1847826~1~0.1847826~1~0.1847826~1, CustomDecal><1214.812><11.56892><10~662~644~634~594~-32~0~0~0~1~0~rust3~0.1630435~1~0.1630435~1~0.1630435~1~0.1630435~1, LanternOnStick><376.3949><286.1702><15~-96, LanternOnStick><1611.18><542.6621><-16~-94, UniqueDataPearl><1390.634><82.70065><0~0~0~0~ET_Cars~0, 
+AmbientSounds: OMNI><rainheavy1.wav><237.1997><359.7394><0.09782609><1, OMNI><am_rain-quietthunder.ogg><526.0501><219.507><0.2065217><1, OMNI><am_win-subwnd.ogg><751.0742><403.6546><0.1956522><1, OMNI><am_ind-50hz.ogg><444.563><271.5602><0.2173913><1, 
+FadePalette: 2, 0.4021739, 0.4021739
+MorePalette0: 33, 0.7173913, 0.6304348

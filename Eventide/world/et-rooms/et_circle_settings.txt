@@ -1,0 +1,11 @@
+Template: NONE
+Clouds: 0.173913
+Grime: 0.5
+Palette: 10007
+EffectColorA: 11
+EffectColorB: 2
+Effects: SkyDandelions-0-70-70, LightBurn-0.1630435-20-20, Fog-0.5-30-30, 
+PlacedObjects: CustomDecal><230.8743><767.1567><28~765~555~482~673~0~0~0~0.0326087~1~0~greybones~0.2391304~1~0.2391304~1~0.2391304~1~0.2391304~1, Mushroom><542.4246><982.6525><0~0~2~3, PlacedWaterfall><497.3898><1349.607><164~-94~0.3043531~1, PlacedWaterfall><470.8037><1343.462><108~12~0.7391357~1, 
+AmbientSounds: OMNI><am_win-subwnd.ogg><725.8102><169.5593><0.2173913><1, OMNI><so_wat-openflow.ogg><745.8179><169.6672><0.2282609><1, SPOT><so_wat-openflow.ogg><716.0117><174.8003><0.2173913><1><493.0117><259.8004><-277.3553><-75.35535><0><0.6521739, 
+FadePalette: 33, 0.9239131, 0.7826087
+MorePalette0: 2, 0.04347826, 0.1413043

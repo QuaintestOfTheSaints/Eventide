@@ -1,0 +1,12 @@
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04999577
+SecondWaveLength: 0.5144925
+SecondWaveAmplitude: 0.3478261
+Palette: 11
+EffectColorA: 19
+EffectColorB: 6
+Effects: Bloom-0-80-80, Fog-0.6086956-90-90, TinyDragonFly-0.173913-20-20, Moth-0.07608695-100-100, RockFlea-0.2391304-110-110, LightRain-0.5543478-264-59, 
+PlacedObjects: LanternOnStick><27.18631><219.9273><-29~-136, LanternOnStick><672.6257><216.8445><26~-162, ColouredLightSource><566.8011><304.7711><100~50~FF0000~34^144~0.6739131~False~0.6739131~0~0.5~Always~0~100, LightBeam><205.9345><427.311><-69~279~177~277~73~0~-367~-74~0.06304351~1~0~1~None~0~0, LightBeam><799.8793><416.4026><-103~284~184~286~40~0~0~0~0.06304335~1~0~1~None~0~0, 
+AmbientSounds: OMNI><AM_ENV-Woods.ogg><145.5649><177.4241><0.5><1, OMNI><AM_ENV-Outside.ogg><61.89166><276.6088><0.5><1, OMNI><AM_NAT-ForestRain.ogg><232.8139><275.6768><0.3043478><1, 
+FadePalette: 10, 0.8043478

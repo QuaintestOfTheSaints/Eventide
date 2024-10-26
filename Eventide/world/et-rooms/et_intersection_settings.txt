@@ -1,0 +1,7 @@
+RainIntensity: 0.7065217
+RumbleIntensity: 0.5
+Effects: Fog-0-70-70, Bloom-0.6086956-80-80, TinyDragonFly-0.02173913-20-20, FullRoomWind-0.4565217-268-124, 
+PlacedObjects: DandelionPatch><483.1492><327.6332><-102~72, CustomDecal><143.5112><42.44968><-28~538~708~537~654~-19~225~-195~0~1~0~rust3~0.2173916~1~0.2173916~1~0.2173916~1~0.2173916~1, CustomDecal><213.347><71.37885><-37~103~60~122~63~16~646~87~0~1~0~scavmark ghost~1~0.1847826~1~0.1847826~1~0.1847826~1~0.1847826, 
+AmbientSounds: OMNI><am_win-howlingwnd.ogg><748.2786><460.5521><0.3586957><1, 
+FadePalette: 2, 0.4021739
+BackgroundOffset: 0,491.3062

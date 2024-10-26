@@ -1,0 +1,17 @@
+DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5243022
+WaveLength: 0.9878489
+WaveAmplitude: 1.77978E-05
+SecondWaveLength: 0.5144925
+SecondWaveAmplitude: 0.3478261
+Grime: 0.3804348
+Palette: 2
+EffectColorA: 14
+EffectColorB: 6
+Effects: SkyAndLightBloom-0-70-70, Bloom-0-80-80, Fog-0-90-90, FireFlies-0.3043478-20-20, RockFlea-0.3043478-60-60, WaterGlowworm-0.3043478-100-100, TinyDragonFly-0.08695652-110-110, DayNight-1-120-120, 
+PlacedObjects: ColouredLightSource><705.1981><413.7773><100~50~FF7437~360^108~0.2282609~True~0.6630435~0~0.5~Before~1~100, ColouredLightSource><153.4498><163.9911><100~50~FFC843~284^138~0.06521739~True~0.6956522~0~0.5~Before~1~100, DayNightSettings><224.1198><269.9101><-258~56.66025~23~33, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><105.5513><289.6933><0.5><1, OMNI><AM_ENV-LightWind.ogg><677.1959><517.7098><0.5><1, OMNI><AM_ENV-Pasture.ogg><359.919><408.3931><0.3043478><1, OMNI><AM_ENV-Woods.ogg><293.9485><282.2745><0.5><1, OMNI><AM_ENV-CricketsWnd.ogg><410.3855><523.664><0.2826087><1, OMNI><AM_IND-Warehouse02.ogg><689.0588><398.3088><0.4021739><1, 
+FadePalette: 8, 0.2065217
+MorePalette0: 10, 0.1847826

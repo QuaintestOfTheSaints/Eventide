@@ -1,0 +1,16 @@
+DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5007708
+WaveLength: 0.9996146
+WaveAmplitude: 0.04782523
+SecondWaveLength: 0.5144925
+SecondWaveAmplitude: 0.3478261
+Grime: 0.3804348
+Palette: 144
+EffectColorA: 9
+EffectColorB: 7
+Effects: Bloom-0-80-80, FireFlies-0.3152174-100-100, TinyDragonFly-0.08695652-60-60, RockFlea-0.1956522-110-110, DayNight-1-120-120, LightRain-0.5-70-70, SkyBloom-1-20-20, FairyParticles-1-757-407, 
+PlacedObjects: Rainbow><1895.124><351.5945><-275~343~0~0~1,1,1,1,0.5,1, DayNightSettings><1110.623><376.9077><5~8.660254~23~33, FairyParticleSettings><1272.626><327.9053><5~8.660254~0~1~1~0~1~7.782609~60~180~40~100~5~30~0~360~0.5~1~1~1~0.5~1~0.5~0.75~4~Leaf~SIN_IO~SIN_IO~80~0.5~0, 
+AmbientSounds: OMNI><AM_IND-Warehouse02.ogg><694.4019><398.63><0.5><1, OMNI><AM_ENV-Forest.ogg><712.3326><534.0679><0.5><1, OMNI><AM_ENV-CricketsWnd.ogg><396.6489><492.3274><0.5><1, OMNI><AM_ENV-Woods.ogg><452.1243><370.5945><0.5><1, 
+FadePalette: 2, 0, 0

@@ -1,0 +1,11 @@
+{
+	"id": "Quaint.SunsetRegion",
+	"name": "Eventide",
+	"version": "1.0",
+	"authors": "TheQuaintSaint",
+	"description": "A long abandoned canyon. Flooded and warped. Trapped in a permanent sunset. Connecting Sky Islands to Outer Expanse and soon to my other modded regions. Complete with custom pearls and an echo",
+	"requirements": ["regionkit", "crs"],
+	"requirement_names": ["RegionKit", "Custom Regions Support"],
+	"tags": ["Regions"],
+	"checksum_override_version": false
+}

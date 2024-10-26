@@ -1,0 +1,4 @@
+[MERGE]
+GATE_SI_ET : 2 : 2
+GATE_ET_MK : 3 : 3
+[ENDMERGE]
