@@ -15,7 +15,7 @@ ET_Train01 : ET_S02, ET_IntroShelter, ET_BEACHED, ET_TRRAAIINNN
 ET_IntroShelter : ET_Train01 : SHELTER
 ET_TRRAAIINNN : ET_Train01, ET_underover
 ET_Train02 : ET_S02, ET_Train03
-ET_Train03 : ET_S03, ET_Train02, DISCONNECTED
+ET_Train03 : ET_S03, ET_Train02, ET_NewCarsJustDropped
 ET_Train04 : ET_Train05, ET_S03 : SWARMROOM
 ET_Train05 : ET_Train06, ET_Train04, ET_Train07
 ET_Train06 : DISCONNECTED, ET_Train05
@@ -61,7 +61,10 @@ ET_imtired : ET_Lightburntheregion, ET_Gaypeoplereal
 ET_Lightburntheregion : ET_imtired, ET_GRR
 ET_GRR : ET_Lightburntheregion, ET_holyshit_aliens
 ET_iwannaplaynautica : ET_holyshit_aliens, ET_Wonderfulwizardofoz
-ET_Wonderfulwizardofoz : ET_iwannaplaynautica, DISCONNECTED, DISCONNECTED
+ET_Wonderfulwizardofoz : ET_iwannaplaynautica, ET_AlmostThere, DISCONNECTED
+ET_AlmostThere : ET_PipeSwim, ET_Wonderfulwizardofoz
+ET_PipeSwim : ET_NewCarsJustDropped, DISCONNECTED, ET_AlmostThere
+ET_NewCarsJustDropped : ET_Train03, ET_PipeSwim
 END ROOMS
 CREATURES
 

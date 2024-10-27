@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.8043478
+Grime: 0.3804348
+Palette: 10007
+EffectColorA: 11
+EffectColorB: 2
+Effects: MossWater-1-70-70, Bloom-0-378-77, Fog-0.4021739-91-127, SkyDandelions-0-20-20, FireFlies-0.2173913-30-30, RockFlea-0.1847826-40-40, 
+PlacedObjects: CustomDecal><351.0081><49.05017><-12~570~246~595~207~-9~-26~-385~0~1~0~rustb2~0.3369565~1~0.3369565~1~0.3369565~1~0.3369565~1, LightFixture><532.5484><326.0559><RedSubmersible~17.32051~-10~85, 
+AmbientSounds: OMNI><am_win-subwnd.ogg><578.6738><245.8151><0.2065217><1, OMNI><am_ind-utility02.ogg><685.8129><175.6793><0.25><1, SPOT><am_ind-50hz.ogg><699.3586><480.3915><0.3478261><1><532.3586><417.3915><-54.35535><-51.35535><0><0.1, SPOT><am_ind-50hz.ogg><716.7094><474.0542><0.3369565><1.058696><530.7094><330.0542><-57.35535><-52.35535><0><0.1, 
+FadePalette: 2, 0.4021739
+MorePalette0: 33, 0.6521739
