@@ -60,7 +60,8 @@ ET_Gaypeoplereal : ET_WOKEHRTGODDESS, ET_imtired
 ET_imtired : ET_Lightburntheregion, ET_Gaypeoplereal
 ET_Lightburntheregion : ET_imtired, ET_GRR
 ET_GRR : ET_Lightburntheregion, ET_holyshit_aliens
-ET_iwannaplaynautica : ET_holyshit_aliens, DISCONNECTED
+ET_iwannaplaynautica : ET_holyshit_aliens, ET_Wonderfulwizardofoz
+ET_Wonderfulwizardofoz : ET_iwannaplaynautica, DISCONNECTED, DISCONNECTED
 END ROOMS
 CREATURES
 
