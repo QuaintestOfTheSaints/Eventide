@@ -27,7 +27,7 @@ ET_Trains01 : ET_Trains02, ET_Trains09, ET_Trains06
 ET_Trains02 : ET_Trains03, ET_Trains01
 ET_Trains03 : ET_Trains02, ET_Trains04, ET_Trains06
 ET_Trains04 : ET_Trains03, ET_Trains05 : SHELTER
-ET_Trains06 : ET_Trains03, ET_Trains01, ET_ScavRoomA, ET_ScavRoomB, DISCONNECTED
+ET_Trains06 : ET_Trains03, ET_Trains01, ET_ScavRoomA, ET_ScavRoomB, ET_Rail001
 ET_ScavRoomA : ET_Trains06, ET_ScavRoomB : SCAVTRADER
 ET_ScavRoomB : ET_Trains06, ET_ScavRoomA, ET_Trains07 : SCAVTRADER
 ET_Trains07 : ET_Trains08, ET_ScavRoomB
@@ -65,6 +65,7 @@ ET_Wonderfulwizardofoz : ET_iwannaplaynautica, ET_AlmostThere, DISCONNECTED
 ET_AlmostThere : ET_PipeSwim, ET_Wonderfulwizardofoz
 ET_PipeSwim : ET_NewCarsJustDropped, DISCONNECTED, ET_AlmostThere
 ET_NewCarsJustDropped : ET_Train03, ET_PipeSwim
+ET_Rail001 : ET_Trains06, DISCONNECTED
 END ROOMS
 CREATURES
 
