@@ -3,8 +3,8 @@ Clouds: 0.1521739
 Palette: 10006
 EffectColorA: 10
 EffectColorB: 2
-Effects: AboveCloudsView-1-20-20, FireFlies-0.3043478-274-55, SkyDandelions-0.5-291-108, Bloom-0.6086956-30-30, 
+Effects: FireFlies-0.3043478-274-55, SkyDandelions-0.5-291-108, Bloom-0.6086956-30-30, 
 PlacedObjects: WaterGateData><470.3047><390.9568><100~50~False~True~Nrml~Nrml, ColouredLightSource><-158.6376><-28.33453><100~50~FF3A00~265^-249~0.5326087~False~0.7282609~0~0.5~Always~0~100, 
 AmbientSounds: OMNI><am_win-nicewnd.ogg><738.4289><449.313><0.5><1, OMNI><msc-wetconduits.ogg><737.6961><364.0392><0.4021739><1, SPOT><am_ind-50hz.ogg><753.5042><265.95><0.4021739><1><479.5043><247.9499><-95.35535><-82.35535><0><0.1, 
 FadePalette: 2, 0.4021739
-BackgroundOffset: 0,530
+BackgroundOffset: 0,-13.48078
