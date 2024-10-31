@@ -1,5 +1,5 @@
 ROOMS
-
+GATE_OE_ET : DISCONNECTED, ET_Rail001 : GATE
 GATE_SI_ET : DISCONNECTED, ET_intro : GATE
 ET_A01 : DISCONNECTED, DISCONNECTED
 ET_B01 : ET_intro, DISCONNECTED, DISCONNECTED
@@ -65,7 +65,7 @@ ET_Wonderfulwizardofoz : ET_iwannaplaynautica, ET_AlmostThere, DISCONNECTED
 ET_AlmostThere : ET_PipeSwim, ET_Wonderfulwizardofoz
 ET_PipeSwim : ET_NewCarsJustDropped, DISCONNECTED, ET_AlmostThere
 ET_NewCarsJustDropped : ET_Train03, ET_PipeSwim
-ET_Rail001 : ET_Trains06, DISCONNECTED
+ET_Rail001 : ET_Trains06, GATE_OE_ET
 END ROOMS
 CREATURES
 
