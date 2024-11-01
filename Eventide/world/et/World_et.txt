@@ -61,11 +61,12 @@ ET_imtired : ET_Lightburntheregion, ET_Gaypeoplereal
 ET_Lightburntheregion : ET_imtired, ET_GRR
 ET_GRR : ET_Lightburntheregion, ET_holyshit_aliens
 ET_iwannaplaynautica : ET_holyshit_aliens, ET_Wonderfulwizardofoz
-ET_Wonderfulwizardofoz : ET_iwannaplaynautica, ET_AlmostThere, DISCONNECTED
+ET_Wonderfulwizardofoz : ET_iwannaplaynautica, ET_AlmostThere, ET_DiagonalTwix
 ET_AlmostThere : ET_PipeSwim, ET_Wonderfulwizardofoz
 ET_PipeSwim : ET_NewCarsJustDropped, DISCONNECTED, ET_AlmostThere
 ET_NewCarsJustDropped : ET_Train03, ET_PipeSwim
 ET_Rail001 : ET_Trains06, GATE_OE_ET
+ET_DiagonalTwix : DISCONNECTED, ET_Wonderfulwizardofoz
 END ROOMS
 CREATURES
 
