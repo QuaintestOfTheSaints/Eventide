@@ -44,7 +44,7 @@ ET_TileTest : DISCONNECTED
 ET_Port1 : ET_TrainWreck, ET_HouseParkour, ET_SuperBuildUp
 ET_TrainWreck : ET_Port1, ET_FinalStretch
 ET_FinalStretch : DISCONNECTED, ET_TrainWreck
-ET_underover : ET_TRRAAIINNN, DISCONNECTED, ET_Traincarowo
+ET_underover : ET_TRRAAIINNN, ET_PLAYTESTYIPPEE, ET_Traincarowo
 ET_Traincarowo : ET_underover, ET_WaterCarOwO
 ET_WaterCarOwO : ET_Traincarowo, ET_GAHtheywateredthecaragain
 ET_GAHtheywateredthecaragain : ET_WaterCarOwO, ET_Filterowo
@@ -66,7 +66,11 @@ ET_AlmostThere : ET_PipeSwim, ET_Wonderfulwizardofoz
 ET_PipeSwim : ET_NewCarsJustDropped, DISCONNECTED, ET_AlmostThere
 ET_NewCarsJustDropped : ET_Train03, ET_PipeSwim
 ET_Rail001 : ET_Trains06, GATE_OE_ET
-ET_DiagonalTwix : DISCONNECTED, ET_Wonderfulwizardofoz
+ET_DiagonalTwix : ET_erodedrefineryinconvinece, ET_Wonderfulwizardofoz
+ET_erodedrefineryinconvinece : ET_EEE, ET_DiagonalTwix
+ET_EEE : ET_LASTROOM, ET_erodedrefineryinconvinece
+ET_LASTROOM : ET_PLAYTESTYIPPEE, ET_EEE
+ET_PLAYTESTYIPPEE : ET_underover, ET_LASTROOM
 END ROOMS
 CREATURES
 

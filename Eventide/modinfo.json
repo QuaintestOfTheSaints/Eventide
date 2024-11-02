@@ -3,7 +3,7 @@
 	"name": "Eventide",
 	"version": "1.0",
 	"authors": "TheQuaintSaint",
-	"description": "A long abandoned canyon. Flooded and warped. Trapped in a permanent sunset. Connecting Sky Islands to Outer Expanse and soon to my other modded regions. Complete with custom pearls and an echo",
+	"description": "A long abandoned island chain located underneath Sky Islands. Flooded and warped. Trapped in a permanent sunset. Connecting Sky Islands to Outer Expanse and soon to many other modded regions. Complete with custom pearls and an echo. SPECIAL THANKS: LudoCrypt for a room and an ambient track, Slithers for a room, and Five Frozen Lakes for another ambient track.",
 	"requirements": ["regionkit", "crs"],
 	"requirement_names": ["RegionKit", "Custom Regions Support"],
 	"tags": ["Regions"],
