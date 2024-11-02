@@ -7,4 +7,4 @@ PlacedObjects: CGDrySpot><-78.552><142.4716><100~50~3958^461~True~None, Blinking
 AmbientSounds: OMNI><AM_ENV-LightWind.ogg><332.4342><377.8279><0.5><1, OMNI><AM_WAT-Sea01.ogg><321.2763><150.5517><0.3043478><1, SPOT><SO_WAT-OpenFlow.ogg><508.1404><288.5827><0.5><1><3738.14><816.5826><-516.3553><-425.3553><0><0.2086958, OMNI><AM_NAT-ForestRain.ogg><175.5717><244.8133><0.402174><1, 
 Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>et - editneve<eA>vol<eB>0.2782606<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>84.78261<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>718.8756<tB>212.3434<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>235.875<tB>316.3192<tA>handlePos<tB>-181.3553<tB>-94.35535, 
 FadePalette: 2, 0.3043478, 0.3043478, 0.3043478, 0.3369565, 0.3804348, 0.4021739, 0.423913
-BackgroundOffset: 0,825
+BackgroundOffset: 0,720

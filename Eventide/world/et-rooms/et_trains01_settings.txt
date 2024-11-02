@@ -7,4 +7,4 @@ PlacedObjects: BlinkingFlower><425.8132><303.4398><, BlinkingFlower><547.0013><2
 AmbientSounds: OMNI><AM_ENV-LightWind.ogg><696.5054><519.45><0.5><1, OMNI><AM_NAT-ForestRain.ogg><723.349><358.1311><0.5><1, OMNI><AM_WAT-Sea02.ogg><428.1793><241.5629><0.2065217><1, OMNI><AM_ENV-CricketsWnd.ogg><104.1957><265.3075><0.5><1, OMNI><AM_ENV-Outside.ogg><42.07294><353.657><0.5><1, 
 FadePalette: 2, 0.4021739, 0.4021739
 MorePalette0: 33, 0.2065217, 0.1521739
-BackgroundOffset: 0,750
+BackgroundOffset: 0,660

@@ -7,4 +7,4 @@ PlacedObjects: OEsphere><1542.859><147.1079><-23~34~50~86.60254~4~1, ScavengerOu
 AmbientSounds: OMNI><am_env-lightwind.ogg><706.8301><434.3944><0.5><1, OMNI><am_nat-forestrain.ogg><716.8422><265.5725><0.5><1, OMNI><am_wat-sea02.ogg><324.5512><258.7282><0.3478261><1, OMNI><am_env-outside.ogg><406.0543><357.7914><0.3695652><1, OMNI><am_env-cricketswnd.ogg><366.7211><442.5521><0.3586957><1, 
 FadePalette: 2, 0.4021739, 0.3913043, 0.3913043, 0.4021739
 MorePalette0: 33, 0.1521739, 0.1086956, 0.05434782, 0.02173913
-BackgroundOffset: 0,780
+BackgroundOffset: 0,670
