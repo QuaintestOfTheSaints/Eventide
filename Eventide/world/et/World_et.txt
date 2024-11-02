@@ -76,21 +76,22 @@ END ROOMS
 CREATURES
 
 OFFSCREEN : 0-Scavenger-19, 0-Vulture-2
-ET_Trains07 : 5-YellowLizard-2, 3-YellowLizard-2, 2-YellowLizard
+ET_Trains07 : 5-YellowLizard-2, 3-YellowLizard-2
 ET_Train05 : 4-Eel, 3-Eel
 ET_Trains02 : 2-BigNeedleWorm, 3-SmallNeedleWorm-3
 ET_Trains01 : 3-PinkLizard
 ET_Train04 : 3-GreenLizard, 2-BigNeedleWorm, 2-SmallNeedleWorm-4
-ET_Train03 : 4-Eel, 5-Salamander
-ET_Train07 : 5-BlueLizard
+ET_Train03 : 4-Eel
+LINEAGE : ET_Train07 : 5 : PinkLizard-0.5, BlueLizard-1
 ET_Port1 : 3-BlueLizard
 ET_iwannaplaynautica : 3-Salamander
-ET_erodedrefineryinconvinece : 3-BlueLizard
 ET_HouseParkour : 4-Eel
 ET_Supersillyinator : 2-Salamander
-ET_Rail001 : 2-BlueLizard, 3-CyanLizard
+LINEAGE : ET_Rail001 : 2 : BlueLizard-1, CyanLizard-0.5
 ET_WOKEHRTGODDESS : 3-YellowLizard
 ET_imtired : 4-YellowLizard-2
 ET_holyshit_aliens : 2-BigNeedleWorm, 2-SmallNeedleWorm
 ET_underover : 3-WhiteLizard
+LINEAGE : ET_erodedrefineryinconvinece : 3 : BlueLizard-1, PinkLizard-0.5
+ET_Train07 : 4-Centiwing-2
 END CREATURES
