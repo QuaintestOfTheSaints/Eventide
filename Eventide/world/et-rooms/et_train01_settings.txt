@@ -4,4 +4,4 @@ PlacedObjects: Vine><630.3057><394.6921><-166~507, Rainbow><836.3004><412.7628><
 AmbientSounds: OMNI><am_env-forest.ogg><759.5585><443.3087><0.6086956><1, OMNI><am_nat-forestrain.ogg><754.4448><359.7951><0.5><1, 
 Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>et - itertheme<eA>vol<eB>0.2782606<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>940.189<tB>275.0656<tA>fireChance<tB>1<tA>entrance<tB>3<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>883.189<tB>429.0656<tA>handlePos<tB>-106.3553<tB>-92.35535, 
 FadePalette: 2, 0.3043478, 0.3043478, 0.3043478
-BackgroundOffset: 0,725
+BackgroundOffset: 0,680
