@@ -41,7 +41,7 @@ ET_Void2 : DISCONNECTED
 ET_TileTest : DISCONNECTED
 ET_Port1 : ET_TrainWreck, ET_HouseParkour, ET_SuperBuildUp
 ET_TrainWreck : ET_Port1, ET_FinalStretch
-ET_FinalStretch : DISCONNECTED, ET_TrainWreck
+ET_FinalStretch : DISCONNECTED, ET_Scaffold_Mines, ET_TrainWreck
 ET_underover : ET_TRRAAIINNN, ET_PLAYTESTYIPPEE, ET_Traincarowo
 ET_Traincarowo : ET_underover, ET_WaterCarOwO
 ET_WaterCarOwO : ET_Traincarowo, ET_GAHtheywateredthecaragain
@@ -69,7 +69,8 @@ ET_erodedrefineryinconvinece : ET_EEE, ET_DiagonalTwix
 ET_EEE : ET_LASTROOM, ET_erodedrefineryinconvinece
 ET_LASTROOM : ET_PLAYTESTYIPPEE, ET_EEE
 ET_PLAYTESTYIPPEE : ET_underover, ET_LASTROOM
-ET_Scaffold_Mines : DISCONNECTED, DISCONNECTED, GATE_SI_ET
+ET_Scaffold_Mines : DISCONNECTED, DISCONNECTED, GATE_SI_ET, ET_FinalStretch, ET_SSS
+ET_SSS : ET_Scaffold_Mines : SHELTER
 END ROOMS
 CREATURES
 
