@@ -3,6 +3,7 @@ Palette: 10006
 EffectColorA: 14
 EffectColorB: 2
 Effects: SkyDandelions-0.6086956-81-102, Bloom-0.6086956-225-52, AboveCloudsView-1-20-20, 
+PlacedObjects: CustomDecal><20.61615><160.6486><-83~404~389~564~660~-100~0~0~0~1~0~rustb2~0.2934783~1~0.2934783~1~0.2934783~1~0.2934783~1, CustomDecal><532.6177><140.8383><-99~502~630~510~635~195~0~0~0~1~0~rustb3~0.2608696~1~0.2608696~1~0.2608696~1~0.2608696~1, 
 AmbientSounds: OMNI><AM_WIN-NiceWnd.ogg><724.9052><534.4261><0.3043478><1, SPOT><AM_IND-Utility02.ogg><781.9628><459.4465><0.6086956><1><562.9628><318.4465><-97.35535><-113.3553><0><0.1, 
-FadePalette: 2, 0.6086956
+FadePalette: 2, 0.6413044
 BackgroundOffset: 0,217.3913

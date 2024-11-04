@@ -3,7 +3,7 @@
 	"name": "Eventide",
 	"version": "1.0",
 	"authors": "TheQuaintSaint",
-	"description": "A long abandoned island chain located underneath Sky Islands. Flooded and warped, Trapped in a permanent sunset. Connecting Sky Islands to Outer Expanse and soon to many other modded regions. Complete with custom pearls and an echo. SPECIAL THANKS: LudoCrypt for a room and an ambient track, Slithers for a room, and Five Frozen Lakes for another ambient track.",
+	"description": "A long abandoned island chain located underneath Sky Islands. Flooded and warped, Trapped in a permanent sunset. Connecting Sky Islands to Outer Expanse and soon to many other modded regions. Complete with custom pearls and an echo. SPECIAL THANKS: LudoCrypt and Slithers for two fan rooms that made it in, Philomel for helping me write my pearls, And lastly all the amazing members of the Rain World modding community for their support. SPOILER: Entrances in OE_RAIL03, SI_B11.",
 	"requirements": ["regionkit", "crs"],
 	"requirement_names": ["RegionKit", "Custom Regions Support"],
 	"tags": ["Regions"],

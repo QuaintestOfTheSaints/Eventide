@@ -1,7 +1,7 @@
 [MERGE]
 ROOMS
 SI_B11 : SI_D05, SI_test01, SI_D06
-SI_test01 : SI_transition, SI_B11
+SI_test01 : SI_B11, SI_transition
 SI_transition : SI_test01, SI_pip
 SI_pip : SI_transition, GATE_SI_ET
 GATE_SI_ET : SI_pip, DISCONNECTED : GATE
