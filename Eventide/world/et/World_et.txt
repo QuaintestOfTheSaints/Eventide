@@ -33,7 +33,7 @@ ET_Trains08 : ET_Trains07, ET_Trains11
 ET_Trains05 : ET_Trains04, GATE_ET_MK
 ET_Trains11 : ET_Trains10, ET_Trains08, ET_Train08
 ET_EchoRoom : ET_Intersection
-ET_Intersection : ET_Scaffold01, ET_EchoRoom, DISCONNECTED, DISCONNECTED : SWARMROOM
+ET_Intersection : ET_Scaffold01, ET_EchoRoom, ET_Scaffold03, DISCONNECTED : SWARMROOM
 ET_Scaffold01 : ET_Intersection
 GATE_ET_MK : DISCONNECTED, ET_Trains05 : GATE
 ET_Void : DISCONNECTED
@@ -41,7 +41,7 @@ ET_Void2 : DISCONNECTED
 ET_TileTest : DISCONNECTED
 ET_Port1 : ET_TrainWreck, ET_HouseParkour, ET_SuperBuildUp
 ET_TrainWreck : ET_Port1, ET_FinalStretch
-ET_FinalStretch : DISCONNECTED, ET_Scaffold_Mines, ET_TrainWreck
+ET_FinalStretch : ET_Staffold02, ET_Scaffold_Mines, ET_TrainWreck
 ET_underover : ET_TRRAAIINNN, ET_PLAYTESTYIPPEE, ET_Traincarowo
 ET_Traincarowo : ET_underover, ET_WaterCarOwO
 ET_WaterCarOwO : ET_Traincarowo, ET_GAHtheywateredthecaragain
@@ -69,8 +69,10 @@ ET_erodedrefineryinconvinece : ET_EEE, ET_DiagonalTwix
 ET_EEE : ET_LASTROOM, ET_erodedrefineryinconvinece
 ET_LASTROOM : ET_PLAYTESTYIPPEE, ET_EEE
 ET_PLAYTESTYIPPEE : ET_underover, ET_LASTROOM
-ET_Scaffold_Mines : DISCONNECTED, DISCONNECTED, GATE_SI_ET, ET_FinalStretch, ET_SSS
+ET_Scaffold_Mines : DISCONNECTED, ET_Scaffold03, GATE_SI_ET, ET_FinalStretch, ET_SSS
 ET_SSS : ET_Scaffold_Mines : SHELTER
+ET_Staffold02 : ET_Scaffold03, ET_FinalStretch
+ET_Scaffold03 : ET_Intersection, ET_Scaffold_Mines, ET_Staffold02
 END ROOMS
 CREATURES
 
