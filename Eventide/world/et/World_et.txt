@@ -95,4 +95,5 @@ ET_holyshit_aliens : 2-BigNeedleWorm, 2-SmallNeedleWorm
 ET_underover : 3-WhiteLizard
 LINEAGE : ET_erodedrefineryinconvinece : 3 : BlueLizard-1, PinkLizard-0.5
 ET_Train07 : 4-Centiwing-2
+ET_Scaffold03 : 9-WhiteLizard-2, 3-Centiwing
 END CREATURES
